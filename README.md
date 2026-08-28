@@ -25,3 +25,5 @@ Live Demo:https://amirhaghi1998-del.github.io/weather-app/
 1. Clone the repository:
    ```bash
    git clone [https://github.com/amirhaghi1998-del/weather-app.git](https://amirhaghi1998-del.github.io/weather-app/)
+   <img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/6111d3c7-4510-443e-8c3f-a23f2be10384" />
+
