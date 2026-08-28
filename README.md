@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/5363dc71-2849-4820-b1c3-0cddc7d3ed31" />
 # Weather App
 
 A simple weather application built with HTML, CSS, and vanilla JavaScript.  
